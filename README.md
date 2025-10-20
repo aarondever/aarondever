@@ -37,9 +37,9 @@ I want to use **Go** as much as possible — it’s fast, simple, and perfect fo
 
 ### 📊 GitHub Stats
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarondever&show_icons=true&theme=radical)
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarondever&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondever&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondever&layout=compact&theme=dark)
 
 <!--
 ---
