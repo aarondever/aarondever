@@ -10,7 +10,7 @@ I want to use **Go** as much as possible — it’s fast, simple, and perfect fo
 ### 🧠 About Me
 - 🔭 I’m currently working on: a **Go-based API service** for web scraping 
 - 🌱 Learning more about: **system design** and **cloud architecture**  
-- 📫 Reach me at: [aaron.dev247@gmail.com](mailto:aaron.dev247@gmail.com)  
+- 📫 Reach me at: [aaronhongdev@gmail.com](mailto:aaronhongdev@gmail.com)  
 
 ---
 
@@ -19,8 +19,6 @@ I want to use **Go** as much as possible — it’s fast, simple, and perfect fo
 **Languages & Frameworks:**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
